@@ -14,6 +14,7 @@ This project uses **Google Meridian** to run a probabilistic Marketing Mix Model
 | `mix.png`        | Contribution breakdown of baseline and channels |
 | `prediction.png` | Response curves for top 7 marketing channels |
 | `README.md`      | Project documentation (this file) |
+| `data.csv`       | Raw data |
 
 ---
 
